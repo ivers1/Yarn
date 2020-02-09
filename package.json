@@ -1,0 +1,12 @@
+{
+  "name": "Yarn",
+  "version": "1.0.0",
+  "description": "Yarn_JQuery_dependency",
+  "main": "index.js",
+  "repository": "https://github.com/ivers1/Yarn.git",
+  "author": "ivers1 <ivers1984@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery.1": "^1.0.0"
+  }
+}
